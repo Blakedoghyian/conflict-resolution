@@ -1,3 +1,3 @@
 # conflict-resolution
 
-## this subheading was created locally
+## this subheading was created on github
